@@ -5,7 +5,11 @@ Assess Regional Performance: Evaluate total sales by customer location and produ
 Monitor Payment Preferences: Identify the most commonly used payment methods for better payment support and customer experience.
 Evaluate Discount Strategies: Analyze average discounts across product categories to determine their impact on sales.
 
-DATASET
+
+
+https://github.com/user-attachments/assets/b8be71b1-e76c-44da-bd4d-f3bbfb715519
+
+### DATASET
 The dashboard aggregates and visualizes data from various fields, such as product categories, payment methods, customer demographics, and transaction details. The goal is to enable business analysts, marketers, and decision-makers to understand trends, customer behavior, and performance metrics at a glance.
 Data Fields
 The data used in this dashboard consists of transaction records, including the following fields:
@@ -58,7 +62,7 @@ Focus on Books and Beauty & Personal Care in Asia and South America, as they per
 Discounts drive Clothing sales, but optimizing for other categories may further boost revenue.
 Younger and older age groups drive sales; targeted campaigns for ages 40-50 may fill gaps.
 
-##RECOMMENDATIONS
+## RECOMMENDATIONS
 Actionable Recommendations
 Stabilize Sales Trends: Introduce time-based promotions or flash sales to capitalize on peak time intervals and smoothen sales volatility.
 Target Key Customer Segments:
